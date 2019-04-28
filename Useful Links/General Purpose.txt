@@ -1,0 +1,4 @@
+1: Algorithms implemented in Python : https://github.com/TheAlgorithms/Python
+2: Generate Fake Data in PHP : https://github.com/fzaninotto/Faker
+3: Automate tasks for Android and iOS app development : https://github.com/fastlane/fastlane
+4: 33 important JavaScript concepts : https://github.com/leonardomso/33-js-concepts
