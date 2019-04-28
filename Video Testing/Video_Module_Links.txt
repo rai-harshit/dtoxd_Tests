@@ -4,6 +4,5 @@ https://github.com/oaubert/python-vlc/blob/master/generated/3.0/vlc.py : Line 88
 Add Overlay (VLC GUI):
 https://www.vlchelp.com/overlay-text-add-logo-videos/
 
-
 Miscellaneous:
 https://github.com/on-three/video-text-relay
